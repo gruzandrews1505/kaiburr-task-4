@@ -24,7 +24,7 @@ This project implements a classification model using **Python**, **Jupyter Noteb
 ## 🛠 How to Run This Project
 
 1. Clone this repository or download it as ZIP
-2. Open `Task4_Classification.ipynb` in **VS Code** or **Jupyter Notebook**
+2. Open `Task5_Classification.ipynb` in **VS Code** or **Jupyter Notebook**
 3. Make sure Python environment is selected
 4. Click **"Run All Cells"** or run them one-by-one
 
@@ -50,4 +50,4 @@ This project implements a classification model using **Python**, **Jupyter Noteb
 ##  Submitted By
 
 **Gruz Andrews**  
-_For Kaiburr Assessment 2025 – Task 4 (Data Science Classification)_
+_For Kaiburr Assessment 2025 – Task 5(Data Science Classification)_
